@@ -130,7 +130,7 @@ A **Power BI** dashboard was built on top of insights from this database (outsid
 
 ## Authors
 
-Course project — **Sahastra Sonawane**, **S. Mohole** (see original submission folder / archive).
+Course project — **Parth Sahastra**, **Darshan Sonawane**.
 
 ---
 
